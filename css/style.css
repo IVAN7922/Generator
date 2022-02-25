@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+}
+
+.card-header {
+    color: rgb(221, 12, 12);
+    background-color: rgb(116, 223, 125);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
